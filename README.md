@@ -7,8 +7,10 @@ Major-Crops Analysis: Analyzing the trends in the cultivation of major crops, in
 State Analysis: Analyze state-wise crop cultivation patterns and production levels.
 Seasonal Analysis: Explore seasonal patterns in crop cultivation, considering kharif and rabi seasons.
 Fruits and Vegetables Analysis: Analyze the cultivation trends of fruits, vegetables, and their overall contribution to agricultural practices.
+
 📌Tools Used
 Power BI for data visualization and interactive dashboards.
+
 📌Key Insights
 Major Crop Analysis
 Key Areas: Uttar Pradesh, Madhya Pradesh, and Bihar dominate rice, wheat, and pulses production.
