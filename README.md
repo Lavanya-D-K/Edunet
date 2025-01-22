@@ -59,5 +59,6 @@ Rabi crops occupy 26% of the total area.
 Pulses occupy 14% of the total area.
 Vegetables and fruits combined occupy 3.5% of the total area.
 
-Conclusion
+Conclusion:
+
 This project successfully leveraged Power BI to analyze Indian agriculture data, providing valuable insights into crop cultivation patterns, production levels, and seasonal trends. The interactive dashboard and presentation enabled stakeholders to make informed decisions to promote sustainable agriculture and optimize resource use.
